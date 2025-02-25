@@ -21,4 +21,4 @@ This project is a pure Java-based physics simulation that models fluid and rigid
 - Optimized collision detection for large-scale simulations
 ### Contributors
 - [tanmayvj10](https://github.com/tanmayvj10)
-- [centipede0708(https://github.com/centipede0708)
+- [centipede0708](https://github.com/centipede0708)
