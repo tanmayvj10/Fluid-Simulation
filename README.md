@@ -5,6 +5,10 @@ This project is a pure Java-based physics simulation that models fluid and rigid
 - Rigid body constraints to simulate solid-like behavior
 - Basic fluid-like motion for soft body interactions
 
+View Here ↓
+
+[![Watch Here](https://img.youtube.com/vi/XZOQCBv2Nu0/0.jpg)](https://www.youtube.com/watch?v=XZOQCBv2Nu0)
+
 ### System Requirements
 - Processor: Intel Core i5 (any generation)
 - RAM: 4GB or more
